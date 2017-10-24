@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="taotao" />
+        <module name="tt_server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="taotao" target="1.8" />
+      <module name="tt_server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

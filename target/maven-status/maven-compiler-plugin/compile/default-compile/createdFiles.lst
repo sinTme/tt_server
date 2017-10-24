@@ -1,0 +1,5 @@
+com\taojin\taotao\tt_server\web\UserController.class
+com\taojin\taotao\tt_server\common\RedisConfig$1.class
+com\taojin\taotao\tt_server\domain\User.class
+com\taojin\taotao\tt_server\Application.class
+com\taojin\taotao\tt_server\common\RedisConfig.class
